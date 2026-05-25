@@ -1,4 +1,8 @@
+Maycol Estiben Gutierrez Vela _ 151012
+Ana María Vargas Amaya _ 151013
+
 # BogotApp
+
 
 Aplicación móvil comunitaria enfocada en Bogotá. Combina un mapa colaborativo de lugares, crítica cultural de películas/series/música, y un mood picker con IA (Claude) que cruza ambos mundos para hacer recomendaciones personalizadas.
 
